@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Salon App</string>
+    <string name="schedule_makeup">Schedule Make Up</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="register_salon">Register Salon</string>
+    <string name="login_with_google">Login with Google</string>
+    <string name="phone_hint">Phone Number</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="forgot_password">Forget Password</string>
+    <string name="login_button">Login</string>
+    <string name="confirm_password_hint">Confirm Password</string>
+    <string name="signup_button">Sign up</string>
+    <string name="create_profile_title">Create your profile to get started</string>
+    <string name="name_hint">Name</string>
+    <string name="age_hint">Age</string>
+    <string name="gender_hint">Gender</string>
+    <string name="customer_type_hint">Customer Type</string>
+    <string name="signup_link">Don\'t have an account? Sign Up</string>
+    <string name="register_salon_text">Register your salon</string>
+    <string name="register_salon_title">Register your salon to get started</string>
+    <string name="business_name_hint">Business Name</string>
+    <string name="owner_name_hint">Owner Name</string>
+    <string name="employees_hint">Number of Employees</string>
+    <string name="location_hint">Location/Address</string>
+    <string name="pick_location_button">Pick Location from Map</string>
+    <string name="branches_hint">Branches (e.g., Branch 1, Branch 2)</string>
+    <string name="services_hint">Services For</string>
+    <string name="register_salon_button">Register Salon</string>
+    <string name="continue_button">Continue</string>
+    <string name="terms_policy">By continue, you agree to our Terms of service Privacy policy Content policy</string>
+</resources>
